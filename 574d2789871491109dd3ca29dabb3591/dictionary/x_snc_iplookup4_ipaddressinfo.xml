@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IPAddressInfo" max_length="40" name="x_snc_iplookup4_ipaddressinfo" sizeclass="3" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="IpAdress" max_length="20" name="ipadress" type="string"/>
+    </element>
+</database>
